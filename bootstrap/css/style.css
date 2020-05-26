@@ -1,0 +1,40 @@
+/* Your custom styles */
+.btn-primary , .bg-primary{
+    background: linear-gradient(45deg,darkslategray,royalblue);
+}
+
+.btn-info , .bg-info{
+    background: linear-gradient(45deg,darkslategray,deepskyblue);
+}
+.bg-teal , .btn-teal{
+    background-color: #003b3b !important;
+}
+
+.text-teal{
+    color: #003b3b !important;
+}
+
+.btn-success , .bg-success{
+    background: linear-gradient(45deg,darkslategray,limegreen);
+}
+
+.btn-secondary , .bg-secondary{
+    background: linear-gradient(45deg,darkslategray,purple);
+}
+
+.btn-warning , .bg-warning{
+    background: linear-gradient(45deg,darkslategray,orangered);
+}
+
+.btn-danger , .bg-danger{
+    background: linear-gradient(45deg,darkslategray,darkred);
+}
+
+.btn-dark , .bg-dark{
+    background: linear-gradient(45deg,black,darkslategray);
+}
+.carousel .carousel-indicators li {
+    width: 40px;
+    height: 5px;
+    border-radius: 0%;
+}
